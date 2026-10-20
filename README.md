@@ -3004,7 +3004,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
 - [TwexAPI](https://twexapi.io) `https://api.twexapi.io/mcp`
   [![TwexAPI MCP connector](https://glama.ai/mcp/connectors/io.twexapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.twexapi/mcp)
-  🔑 - Search public X (Twitter) posts and read profiles, timelines, followers, trends and X Articles.
+  🔓 - Search public X (Twitter) posts and read profiles, timelines, followers, trends and X Articles. Data calls need an API key.
 - [Unsora](https://tryunsora.com) `https://mcp.tryunsora.com/mcp`
   [![Unsora MCP connector](https://glama.ai/mcp/connectors/com.tryunsora.mcp/unsora/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryunsora.mcp/unsora)
   🔐 - Generate AI images, video, music and voiceovers, clip long videos, and schedule social posts.
